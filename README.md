@@ -22,3 +22,5 @@ O projeto contém os seguintes arquivos principais:
 - **Java**: Linguagem principal de desenvolvimento.
 - **Swing**: Utilizado para a interface gráfica.
 - **NetBeans**: IDE usada para o desenvolvimento do projeto.
+##
+![image](https://github.com/user-attachments/assets/5c1046cc-2fad-45de-996e-cd78a0e09bbd)
